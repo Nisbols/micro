@@ -1,0 +1,218 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Travis Hinton",
+	"icon": "https://micro.blog/nisbols/avatar.jpg",
+	"home_page_url": "https://micro.travishinton.io/",
+	"feed_url": "https://micro.travishinton.io/feed.json",
+	"items": [
+		
+			{
+				"id": "http://nisbols.micro.blog/2024/01/04/dear-was-right.html",
+				
+				"content_html": "<p>Dear was right. What I was missing was personal space. VR gives me that personal space. The flat screen experience, something simple, is all I needed.</p>\n",
+				"content_text": "Dear was right. What I was missing was personal space. VR gives me that personal space. The flat screen experience, something simple, is all I needed. \n",
+				"date_published": "2024-01-04T18:15:22-05:00",
+				"url": "https://micro.travishinton.io/2024/01/04/dear-was-right.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2024/01/02/a-good-and.html",
+				
+				"content_html": "<p>A good and meaningful day at home, cleaning.</p>\n",
+				"content_text": "A good and meaningful day at home, cleaning. \n",
+				"date_published": "2024-01-02T16:48:05-05:00",
+				"url": "https://micro.travishinton.io/2024/01/02/a-good-and.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2024/01/01/i-always-wanted.html",
+				
+				"content_html": "<p>I always wanted to be an expert and know everything. What I need to focus on is making my life and others easier. Know my focus and trust others.</p>\n",
+				"content_text": "I always wanted to be an expert and know everything. What I need to focus on is making my life and others easier. Know my focus and trust others. \n",
+				"date_published": "2024-01-01T16:03:52-05:00",
+				"url": "https://micro.travishinton.io/2024/01/01/i-always-wanted.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/12/31/i-dont-quite.html",
+				
+				"content_html": "<p>I don’t quite understand why it was difficult to be social in the city compared to back home. Maybe having to build my social circle from scratch.  <a href=\"https://gothamist.com/arts-entertainment/in-bushwick-young-people-find-community-in-a-knitting-circle\">News Article</a></p>\n",
+				"content_text": "I don’t quite understand why it was difficult to be social in the city compared to back home. Maybe having to build my social circle from scratch.  [News Article](https://gothamist.com/arts-entertainment/in-bushwick-young-people-find-community-in-a-knitting-circle)\n",
+				"date_published": "2023-12-31T17:21:55-05:00",
+				"url": "https://micro.travishinton.io/2023/12/31/i-dont-quite.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/12/31/sharing-personal-life.html",
+				
+				"content_html": "<p>Sharing personal life experiences is what keeps me following people online.</p>\n",
+				"content_text": "Sharing personal life experiences is what keeps me following people online. \n",
+				"date_published": "2023-12-31T12:23:44-05:00",
+				"url": "https://micro.travishinton.io/2023/12/31/sharing-personal-life.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/12/28/wonder-if-it.html",
+				
+				"content_html": "<p>Wonder if it was that easy to keep the house in the original version.</p>\n<p>Outward</p>\n",
+				"content_text": "Wonder if it was that easy to keep the house in the original version. \n\nOutward \n",
+				"date_published": "2023-12-28T14:04:36-05:00",
+				"url": "https://micro.travishinton.io/2023/12/28/wonder-if-it.html",
+				"tags": ["Micro","Video Games","Outward"]
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/12/28/enjoying-the-field.html",
+				
+				"content_html": "<p>Enjoying the field music. Freedom and openness with danger lurching in the background.</p>\n<p>Outward</p>\n",
+				"content_text": "Enjoying the field music. Freedom and openness with danger lurching in the background. \n\nOutward \n",
+				"date_published": "2023-12-28T13:08:43-05:00",
+				"url": "https://micro.travishinton.io/2023/12/28/enjoying-the-field.html",
+				"tags": ["Video Games","Outward"]
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/12/27/went-out-to.html",
+				
+				"content_html": "<p>Went out to my favorite cafe for some tea. It’s been awhile since I could go out to enjoy a cup of tea.</p>\n",
+				"content_text": "Went out to my favorite cafe for some tea. It’s been awhile since I could go out to enjoy a cup of tea. \n",
+				"date_published": "2023-12-27T16:44:34-05:00",
+				"url": "https://micro.travishinton.io/2023/12/27/went-out-to.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/12/27/started-playing-outward.html",
+				
+				"content_html": "<p>Started playing Outward. Got to the point of leaving the starting town walls. Hoping to get the awe that Morrowind gave so long ago.</p>\n",
+				"content_text": "Started playing Outward. Got to the point of leaving the starting town walls. Hoping to get the awe that Morrowind gave so long ago. \n",
+				"date_published": "2023-12-27T16:32:03-05:00",
+				"url": "https://micro.travishinton.io/2023/12/27/started-playing-outward.html",
+				"tags": ["Video Games","Outward"]
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/12/27/that-was-fun.html",
+				
+				"content_html": "<p>That was fun. Now I can get back to focusing on things I care about.</p>\n",
+				"content_text": "That was fun. Now I can get back to focusing on things I care about.\n",
+				"date_published": "2023-12-27T13:31:46-05:00",
+				"url": "https://micro.travishinton.io/2023/12/27/that-was-fun.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/07/12/finished-reading-extreme.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250184726\">Extreme Ownership</a> by Jocko Willink 📚 Great book. Reminded of my time in the Navy. Great refresher for my new position.</p>\n",
+				"content_text": "Finished reading: [Extreme Ownership](https://micro.blog/books/9781250184726) by Jocko Willink 📚 Great book. Reminded of my time in the Navy. Great refresher for my new position.\n",
+				"date_published": "2023-07-12T12:32:18-05:00",
+				"url": "https://micro.travishinton.io/2023/07/12/finished-reading-extreme.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/07/07/so-far-my.html",
+				
+				"content_html": "<p>So far my 30s are relearning and applying everything someone tried to teach me in my 20s.</p>\n",
+				"content_text": "So far my 30s are relearning and applying everything someone tried to teach me in my 20s. \n",
+				"date_published": "2023-07-07T11:25:47-05:00",
+				"url": "https://micro.travishinton.io/2023/07/07/so-far-my.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/07/05/make-sure-the.html",
+				
+				"content_html": "<p>Make sure the team knows the why and how of the mission.</p>\n",
+				"content_text": "Make sure the team knows the why and how of the mission.\n",
+				"date_published": "2023-07-05T07:41:02-05:00",
+				"url": "https://micro.travishinton.io/2023/07/05/make-sure-the.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/05/17/ai-artwork-and.html",
+				
+				"content_html": "<p>AI artwork and writing are good tools in the right hands. Same as any tool, it requires knowledge and experience.</p>\n",
+				"content_text": "AI artwork and writing are good tools in the right hands. Same as any tool, it requires knowledge and experience. \n",
+				"date_published": "2023-05-17T13:28:57-05:00",
+				"url": "https://micro.travishinton.io/2023/05/17/ai-artwork-and.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/03/24/getting-back-into.html",
+				
+				"content_html": "<p>Getting back into the grove. Updated my documentation site yesterday.  Hopefully updated my projects blog to this week.</p>\n",
+				"content_text": "Getting back into the grove. Updated my documentation site yesterday.  Hopefully updated my projects blog to this week. \n",
+				"date_published": "2023-03-24T09:20:50-05:00",
+				"url": "https://micro.travishinton.io/2023/03/24/getting-back-into.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/03/21/network-issues-are.html",
+				
+				"content_html": "<p>Network issues are always a pain.</p>\n",
+				"content_text": "Network issues are always a pain. \n",
+				"date_published": "2023-03-21T07:35:17-05:00",
+				"url": "https://micro.travishinton.io/2023/03/21/network-issues-are.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/03/20/got-my-azure.html",
+				
+				"content_html": "<p>Got my Azure Fundamentals so back to studying Linux.</p>\n",
+				"content_text": "Got my Azure Fundamentals so back to studying Linux. \n",
+				"date_published": "2023-03-20T15:32:54-05:00",
+				"url": "https://micro.travishinton.io/2023/03/20/got-my-azure.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/03/05/fantastic-time-building.html",
+				
+				"content_html": "<p>Fantastic time building this set.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fantastic time building this set. \n\n<img src=\"uploads/2023/ebab07c4b4.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-03-05T13:08:54-05:00",
+				"url": "https://micro.travishinton.io/2023/03/05/fantastic-time-building.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/01/28/learning-studying-for.html",
+				
+				"content_html": "<p>Studying for IT certifications before and after my first IT job is a different experience.</p>\n",
+				"content_text": "Studying for IT certifications before and after my first IT job is a different experience. \n",
+				"date_published": "2023-01-28T12:40:57-05:00",
+				"url": "https://micro.travishinton.io/2023/01/28/learning-studying-for.html",
+				"tags": ["Micro"]
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/01/24/note.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Slowing down and taking notes is good to do. </p>\n",
+				"date_published": "2023-01-24T04:45:29-05:00",
+				"url": "https://micro.travishinton.io/2023/01/24/note.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/01/22/boiledeggs.html",
+				
+				"content_html": "<h1 id=\"soft-boiled-eggs\">Soft Boiled Eggs</h1>\n<hr>\n<h2 id=\"ingredients\">Ingredients</h2>\n<ul>\n<li>eggs</li>\n<li>salt</li>\n<li>water</li>\n</ul>\n<h2 id=\"tools\">tools</h2>\n<ul>\n<li>pot</li>\n<li>stove</li>\n<li>bowl</li>\n</ul>\n<h2 id=\"steps\">Steps</h2>\n<ol>\n<li>Put water in pot</li>\n<li>Add salt to pot</li>\n<li>Put stove on high and heat water to a boil</li>\n<li>add eggs and boil for 8 minutes</li>\n<li>Remove eggs from pot and place in bowl with cold water</li>\n<li>once eggs cool down, enjoy!</li>\n</ol>\n",
+				"content_text": "# Soft Boiled Eggs\n\n____\n## Ingredients\n* eggs\n* salt\n* water\n\n## tools\n* pot\n* stove\n* bowl \n\n## Steps\n1. Put water in pot\n2. Add salt to pot\n3. Put stove on high and heat water to a boil\n4. add eggs and boil for 8 minutes\n5. Remove eggs from pot and place in bowl with cold water\n6. once eggs cool down, enjoy!\n",
+				"date_published": "2023-01-22T15:46:44-05:00",
+				"url": "https://micro.travishinton.io/2023/01/22/boiledeggs.html",
+				"tags": ["Cooking"]
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/01/21/213146.html",
+				
+				"content_html": "<p>Making cake part 2</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Making cake part 2\n\n<img src=\"uploads/2023/d96f017cee.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-21T21:31:46-05:00",
+				"url": "https://micro.travishinton.io/2023/01/21/213146.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/01/21/212526.html",
+				
+				"content_html": "<p>Making cake</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Making cake\n\n<img src=\"uploads/2023/c21299c8f4.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/e827de039d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-21T21:25:26-05:00",
+				"url": "https://micro.travishinton.io/2023/01/21/212526.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/01/21/205606.html",
+				
+				"content_html": "<p>Making cupcakes</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Making cupcakes\n\n<img src=\"uploads/2023/53126199fa.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/9dc7ede25b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/6bd2c0f116.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-21T20:56:06-05:00",
+				"url": "https://micro.travishinton.io/2023/01/21/205606.html"
+			},
+			{
+				"id": "http://nisbols.micro.blog/2023/01/20/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: The Murder of Roger Ackroyd by Agatha Christie 📚</p>\n",
+				"content_text": "Finished reading: The Murder of Roger Ackroyd by Agatha Christie 📚\n",
+				"date_published": "2023-01-20T10:44:00-05:00",
+				"url": "https://micro.travishinton.io/2023/01/20/finished-reading-the.html",
+				"tags": ["Books"]
+			}
+	]
+}
